@@ -76,4 +76,13 @@ body {
  h1 {
   padding-bottom: 30px !important;
  }
- 
+
+ .sucursales {
+  width: 160px;
+  height: 160px;
+  border-radius: 100px;
+ }
+ h2 {
+  text-shadow: 0 20 20  20 grey;
+  padding-bottom: 60px;
+ }
